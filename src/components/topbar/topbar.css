@@ -94,4 +94,5 @@
     height: 45px;
     cursor: pointer;
     border: 1px solid #ffffff;
+    object-fit: cover;
 }
