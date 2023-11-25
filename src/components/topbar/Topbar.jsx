@@ -5,7 +5,7 @@ import React from 'react'
 
 export default function Topbar() {
   return (
-    <div>
+
         <div className="topbarContainer">
           <div className="topbarLeft">
             <span className="logo">werpol</span>
@@ -42,7 +42,7 @@ export default function Topbar() {
           </div>
       
         </div>
-    </div>
+
   )
 }
 
