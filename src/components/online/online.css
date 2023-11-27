@@ -1,0 +1,24 @@
+.rightbarFriendList{
+ 
+    margin: 0;
+    padding: 0;
+}
+.rightbarFriend{
+    display: flex;
+    align-items: center;
+}
+.rightbarOnline{
+    position: absolute;
+    background-color: green;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    right: 0;
+
+    border: 1px solid #fff;
+    
+}
+.rightbarProfileImgeContainer{
+    position: relative;
+    margin-right: 10px;
+}
