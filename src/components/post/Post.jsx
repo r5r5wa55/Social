@@ -19,7 +19,7 @@ export default function Post() {
                     </div> 
                 </div>
                 <div className="postCenter">
-                    <span className="postText">Hey! It my frist</span>
+                    <span className="postText">Hey! It my fristwewewe</span>
                     <img src="/assets/post/1.jpeg" alt="" className='postImeCenter'/>   
                 </div>
                 <div className="postBottom">

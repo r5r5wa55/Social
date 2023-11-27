@@ -1,3 +1,54 @@
 .rightbar{
     flex: 3;
+    margin: 20px 20px 0 0 ;
+}
+
+.birthdayImg{
+    height: 50px;
+    margin-right: 10px;
+}
+.rightbarAd{
+    width: 100%;
+}
+.birthdayText{
+    font-style: 32px;
+}
+.rightbarProfileImg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+.rightbarFriend{
+    list-style: none;
+}
+.rightbarTitle{
+    margin: 40px 0 10px 0;
+    font-weight: bold;
+}
+
+.rightbarFriendList{
+ 
+    margin: 0;
+    padding: 0;
+}
+.rightbarFriend{
+    display: flex;
+    align-items: center;
+}
+.rightbarOnline{
+    position: absolute;
+    background-color: green;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    right: 0;
+
+    border: 1px solid #fff;
+    
+}
+.rightbarProfileImgeContainer{
+    position: relative;
+    margin-right: 10px;
 }

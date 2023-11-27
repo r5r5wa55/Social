@@ -32,7 +32,7 @@
     
 }
 .postImeCenter{
-
+    margin-top: 10px;
     width: 100%;
 }
 .postDate{
@@ -63,4 +63,8 @@
     font-style: 32px;
     font-weight: bold;
     border-bottom: 1px solid #000;
+}
+.postCenter{
+    margin: 10px 0;
+
 }
